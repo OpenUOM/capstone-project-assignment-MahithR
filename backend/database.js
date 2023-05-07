@@ -176,4 +176,4 @@ module.exports = {
     readTeacherInfo,
     updateStudent,
     updateTeacher
-};
+}
